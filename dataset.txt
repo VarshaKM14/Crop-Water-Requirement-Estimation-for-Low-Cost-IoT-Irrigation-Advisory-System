@@ -1,0 +1,55 @@
+https://www.kaggle.com/datasets/zoya77/agricultural-yield-prediction-dataset/data
+
+
+About this file
+
+Suggest Edits
+The dataset consists of 10,000 records with 45 features capturing essential agricultural parameters. It integrates information on weather conditions, soil nutrients, crop management techniques, and external influencing factors. The dataset is valuable for researchers and agronomists seeking to develop predictive models for optimizing crop yields.
+
+Column Description:
+
+Date – Date of data collection
+Region – Geographic location of the farmland
+Temperature – Average temperature (°C) during the growing period
+Humidity – Relative humidity (%) in the region
+Rainfall – Total rainfall (mm) during the growing season
+SolarRadiation – Amount of sunlight received (W/m²)
+SoilMoisture – Moisture level in soil (%)
+SoilpH – Soil pH level (acidity/alkalinity)
+SoilOrganicMatter – Organic content in soil (%)
+NitrogenContent – Nitrogen (N) level in soil (mg/kg)
+PhosphorusContent – Phosphorus (P) level in soil (mg/kg)
+PotassiumContent – Potassium (K) level in soil (mg/kg)
+CalciumContent – Calcium (Ca) level in soil (mg/kg)
+MagnesiumContent – Magnesium (Mg) level in soil (mg/kg)
+SulfurContent – Sulfur (S) level in soil (mg/kg)
+IronContent – Iron (Fe) level in soil (mg/kg)
+ZincContent – Zinc (Zn) level in soil (mg/kg)
+CopperContent – Copper (Cu) level in soil (mg/kg)
+BoronContent – Boron (B) level in soil (mg/kg)
+ManganeseContent – Manganese (Mn) level in soil (mg/kg)
+EC – Electrical conductivity of soil (dS/m)
+CationExchangeCapacity – Soil’s ability to retain nutrients (meq/100g)
+BulkDensity – Density of soil (g/cm³)
+CropType – Type of crop cultivated
+SowingDate – Date of crop sowing
+HarvestDate – Date of harvesting
+GrowthDuration – Number of days between sowing and harvesting
+SeedVariety – Type of seed used for cultivation
+FertilizerType – Type of fertilizer applied
+FertilizerAmount – Quantity of fertilizer used (kg/ha)
+PesticideType – Type of pesticide applied
+PesticideAmount – Quantity of pesticide used (kg/ha)
+IrrigationMethod – Type of irrigation used (e.g., drip, flood)
+IrrigationFrequency – Number of irrigation cycles per season
+TillageMethod – Type of tillage method used (e.g., plowing, zero tillage)
+WeedControlMethod – Weed management technique used
+HarvestingMethod – Method used for harvesting (manual/machine)
+LaborCount – Number of workers involved in farming
+Yield – Crop yield obtained (kg/ha)
+MarketPrice – Selling price of the harvested crop (currency/unit)
+ProductionCost – Total cost of production (currency/ha)
+ProfitMargin – Net profit per hectare (currency)
+StorageDuration – Number of days the yield was stored before selling
+TransportationCost – Cost of transporting produce to the market (currency)
+PestInfectionLevel – Severity of pest infestation (low, medium, high)
