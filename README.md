@@ -1,0 +1,2 @@
+# Crop-Water-Requirement-Estimation-for-Low-Cost-IoT-Irrigation-Advisory-System
+An IoT-based smart irrigation system predicts crop water requirements using temperature, humidity, and soil moisture collected through ESP8266 sensors. A Random Forest model with Conformal Prediction and Mondrian calibration provides reliable confidence intervals. The system achieves 90.10% coverage and reduces irrigation risk by 22.1%.
